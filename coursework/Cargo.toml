@@ -1,0 +1,10 @@
+[package]
+name = "flashloans-course"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+alloy = { version = "0.8.0", features = ["full"] }
+eyre = "0.6.12"
+hex = "0.4.3"
+tokio = { version = "1.42.0", features = ["full"] }

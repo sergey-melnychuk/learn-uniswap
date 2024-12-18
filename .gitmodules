@@ -1,0 +1,6 @@
+[submodule "RESOURCES/flash-loan-arbitrage-triangular"]
+	path = RESOURCES/flash-loan-arbitrage-triangular
+	url = https://github.com/CryptoWizardsNet/flash-loan-arbitrage-triangular
+[submodule "arbitrage/lib/v2-core"]
+	path = arbitrage/lib/v2-core
+	url = https://github.com/uniswap/v2-core
